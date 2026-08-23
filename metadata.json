@@ -1,0 +1,7 @@
+{
+  "name": "ReStock AI - Agentic Inventory Replenishment & Procurement",
+  "description": "Production-ready AI-driven inventory replenishment, dynamic demand forecasting, multi-supplier optimization, and purchase order workflow system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
